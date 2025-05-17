@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Network Vunerblilty Scan Analsis (Nmap)</b>(https://github.com/JoshuaGrz12/Network-Vulnerability-Scan-Analysis/tree/main)
+- Network Vunerblilty Scan Analsis (Nmap)</b>(https://github.com/JoshuaGrz12/Network-Vulnerability-Scan-Analysis)
 
 <h2>Certifications</h2>
 - [Google Cyber security](https://coursera.org/share/82f13a4d6eb6d3d5abbdc7f2f6c5079d)
