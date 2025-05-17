@@ -4,7 +4,7 @@
 
 - Network Vunerblilty Scan Analsis (Nmap)</b>(https://docs.google.com/document/d/16XJNHTuNe-FQW6clSMgpxzBevqBAFcxn4UHvq1y7kEY/edit?usp=sharing)
 
-<h2>Certifcations</h2>
+<h2>Certifications</h2>
 - [Google Cyber security](https://coursera.org/share/82f13a4d6eb6d3d5abbdc7f2f6c5079d)
 
 - [CompTIA Security+](https://www.credly.com/badges/79e93e13-d55e-4792-ac4d-736eff5ffdb7/public_url)
