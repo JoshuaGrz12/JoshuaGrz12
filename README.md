@@ -5,7 +5,7 @@
 - [Network Vunerblilty Scan Analsis](https://github.com/JoshuaGrz12/Network-Vulnerability-Scan-Analysis)
 
 <h2>Certifications</h2>
-- [Google Cyber security](https://coursera.org/share/82f13a4d6eb6d3d5abbdc7f2f6c5079d)
+-[Google Cyber security](https://www.credly.com/badges/aefae73d-5191-4d5c-86a1-b8196c7e5bfd/public_url)
 
 - [CompTIA Security+](https://www.credly.com/badges/79e93e13-d55e-4792-ac4d-736eff5ffdb7/public_url)
 
