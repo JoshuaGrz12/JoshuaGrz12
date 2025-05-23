@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Network Vunerblilty Scan Analsis](https://github.com/JoshuaGrz12/Network-Vulnerability-Scan-Analysis)
+- [SIEM Setup & Connecting an Agent](https://github.com/JoshuaGrz12/Setting-up-a-SIEM-Connecting-an-Agent)
 
 <h2>Certifications</h2>
 -[Google Cyber security](https://www.credly.com/badges/aefae73d-5191-4d5c-86a1-b8196c7e5bfd/public_url)
