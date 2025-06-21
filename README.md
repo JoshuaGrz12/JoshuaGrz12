@@ -6,6 +6,7 @@
 - [SIEM Setup & Connecting an Agent](https://github.com/JoshuaGrz12/Setting-up-a-SIEM-Connecting-an-Agent)
 - [Making a Malware Analysis Lab](https://github.com/JoshuaGrz12/Making-a-Malware-Analysis-Lab/blob/main/README.md)
 - [Active Directory Installation](https://github.com/JoshuaGrz12/Active-Directory-Install-Account-Creation/blob/main/README.md)
+- [Active Directory Account Creations](https://github.com/JoshuaGrz12/Active-Directory-Account-Creations/blob/main/README.md)
 
 <h2>Certifications</h2>
 
